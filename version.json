@@ -1,6 +1,6 @@
 {
-  "minVersionCode": 3,
-  "versionName": "1.2",
+  "minVersionCode": 4,
+  "versionName": "1.3",
   "apkUrl": "https://guptaakhil-md.github.io/sirf/Sirf-release.apk",
   "message": "A new version of Sirf is required. Tap Update, then open the downloaded file to install it."
 }
